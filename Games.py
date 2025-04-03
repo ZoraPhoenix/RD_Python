@@ -1,4 +1,4 @@
-# SSH Authentication Successful!
+# SSH Authentication Successful
 
 class Games():
     def __init__(self, name, genre, platform):
