@@ -1,4 +1,4 @@
-# Test SSH Commit Authentication
+# SSH Authentication Successful
 
 class Games():
     def __init__(self, name, genre, platform):
