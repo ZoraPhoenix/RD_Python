@@ -12,3 +12,8 @@ phonebook["Bob"] = "456-789-0123"
 
 print(phonebook)
 
+phonebook.pop("Bob") # Remove Bob's entry
+print(phonebook)
+
+del phonebook["Alice"] # Remove Alice's entry
+print(phonebook)
